@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Renner-Bold
+font link: http://indestructibletype.com/BuyRenner.html
+font author: indestructible type*
+font author site: http://indestructibletype.com/Home.html
+
+
+icon designer: Ecem Afacan
+icon designer link: /ecema
+        
+{"bg":"#00acff","icon":"#010033","font":"#ffffff","slogan":"#ffffff"}
+      
