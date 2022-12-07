@@ -153,13 +153,14 @@ nav a:hover {
 	width: 250px;
     float: none;
     margin-left: -180;
+	margin-top: 14px;
     margin-bottom: 20px;
 }
 
 
-
 .user_details img {
     height: 120px;
+	margin-top: 14px;
     border-radius: 4cm;
     margin-top: -40;
     margin-bottom: 10;
